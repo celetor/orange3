@@ -24,6 +24,7 @@
 </p>
 
 [Orange]: https://orange.biolab.si/
+[introduce](https://mp.weixin.qq.com/s/tHjX-Jq-2CSJejklaK2KVg)
 
 
 ## Installing
